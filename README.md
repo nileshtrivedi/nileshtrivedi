@@ -2,7 +2,7 @@
 
 I’m an engineer - specializing in web & mobile software, with some experience in data science, hardware, blockchains and physics/mathematics. After my engineering education & MBA, I have worked with tech startups and companies like Meta/WhatsApp and ClearTax in roles as diverse as hands-on engineer, co-founder, and engineering leadership for almost 20 years. Fundamentally, I love both hacking and engineering.
 
-I maintain a list of [my current projects](https://nilesh.trivedi.pw/now). I love open-source and contribute changes wherever I can. Here are some of my open-source projects:
+I maintain a list of [my current projects](https://nilesh.trivedi.pw/now) and my [requests for hacks](https://codeberg.org/nilesh/request-for-hacks). I love open-source and contribute changes wherever I can. Here are some of my open-source projects:
 
 - [aicombinator](https://github.com/aicombinator/bot): An GPT-based personal assistant bot that runs locally, understands tasks in natural language and with a human-reviewed library of composable tasks, can perform complex online tasks across multiple websites and webapps, by driving a browser on your local machine or call APIs when available.
 
